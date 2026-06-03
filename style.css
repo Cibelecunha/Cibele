@@ -4,11 +4,11 @@ body{
 }
 h1 {
     font-style: italic;
-    color: rgb(214, 59, 150);
+    color: rgba(18, 5, 19, 0.952);
     font-size: larger;
 }
 h2 {
-    color: rgb(14, 229, 157);
+    color: rgb(222, 14, 229);
     font-weight:200;
 }
 
